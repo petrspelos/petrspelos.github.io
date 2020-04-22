@@ -22,8 +22,12 @@ main {
   min-height: 96vh;
 }
 
-h1 {
+h1, h2 {
   text-align: center;
+}
+
+h2 {
+  margin-top: 50px;
 }
 
 p {
